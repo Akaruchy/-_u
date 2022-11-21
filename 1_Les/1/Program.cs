@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Демо: Напишите программу, которая на вход принимает
+//число и выдает его квадрат (число умноженное
+//на само себя).
 
 
 Console.WriteLine("Write a number: ");
